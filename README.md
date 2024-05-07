@@ -1,4 +1,4 @@
-# Data Analysis 
+# Data Analysis using R
 
 Protected by Apache License 2.0.
 
